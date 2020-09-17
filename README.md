@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,I am Manav Kapadnis 
 <a href="https://www.linkedin.com/in/manav-nitin-kapadnis-013b94192/">
   <img align="left" alt="Manav's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -26,13 +26,26 @@ I am a sophmore student of IIT Kharagpur,majoring in Electrical Engineering.I am
 - 👯 I’m looking to collaborate on NLP projects .
 - 📫 How to reach me: mkapadnis2@gmail.com / iammanavk@gmail.com
 
+### - Languages and Tools...
 
-<details>
-<summary>📈 My GitHub Stats</summary>
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
+
+
+
 
 <img align="left" height=180em src="https://github-readme-stats.vercel.app/api?username=manavkapadnis&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
 
-</details>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manavkapadnis&hide=TeX&layout=compact)
 
 
 
