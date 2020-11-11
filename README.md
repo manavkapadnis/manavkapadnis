@@ -22,7 +22,7 @@ I am a sophmore student of IIT Kharagpur,majoring in Electrical Engineering.I am
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning NLP and Data science .
+- 🌱 I’m currently learning transformers library and Pre trained Computer Vision structures in detail .
 - 👯 I’m looking to collaborate on NLP projects .
 - 📫 How to reach me: mkapadnis2@gmail.com / iammanavk@gmail.com
 
