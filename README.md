@@ -16,7 +16,7 @@
 
 <br />
 
-I am a sophmore student of IIT Kharagpur,majoring in Electrical Engineering.I am currently a notebooks expert on Kaggle,working to reach to Kaggle Master level.
+I am a sophmore student of IIT Kharagpur,majoring in Electrical Engineering.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
