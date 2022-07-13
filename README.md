@@ -16,7 +16,7 @@
 
 <br />
 
-I am a Junior student of IIT Kharagpur,majoring in Electrical Engineering.
+I am a Pre-final year undegraduate student of IIT Kharagpur, majoring in Electrical Engineering.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -24,7 +24,7 @@ I am a Junior student of IIT Kharagpur,majoring in Electrical Engineering.
 
 - 🌱 I’m currently learning transformers library and Pre trained Computer Vision structures in detail .
 - 👯 I’m looking to collaborate on NLP projects .
-- 📫 How to reach me: iammanavk@gmail.com / mkapadnis2@gmail.com  
+- 📫 How to reach me: iammanavk@gmail.com / manavkapadnis@gmail.com  
 
 ### - Languages and Tools...
 
