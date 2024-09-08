@@ -16,7 +16,7 @@
 
 <br />
 
-I am a Pre-final year undegraduate student of IIT Kharagpur, majoring in Electrical Engineering.
+I’m currently in my first year of graduate studies, pursuing a Master’s degree in Intelligent Information Systems (MIIS) at the Language Technologies Institute within the School of Computer Science at Carnegie Mellon University
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
