@@ -22,8 +22,8 @@ I’m currently in my first year of graduate studies, pursuing a Master’s degr
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning transformers library and Pre trained Computer Vision structures in detail .
-- 👯 I’m looking to collaborate on NLP projects .
+- 🌱 I’m currently learning transformers library and Pre-trained LLM structures in detail .
+- 👯 I’m looking to collaborate on NLP projects.
 - 📫 How to reach me: iammanavk@gmail.com / manavkapadnis@gmail.com  
 
 ### - Languages and Tools...
